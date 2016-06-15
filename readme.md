@@ -1,2 +1,3 @@
 it's a readme.md
-today i got a bad mood
+
+i'm a good man? yes
